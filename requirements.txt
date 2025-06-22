@@ -1,0 +1,6 @@
+openai  # To use Groq API  
+Flask  # To create the web app  
+SpeechRecognition  # For voice input  
+pyttsx3  # For text-to-speech  
+Strealit  # For real-time web app updates
+requests  # For making HTTP requestsvenv
